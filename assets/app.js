@@ -1,6 +1,6 @@
 // ---- CONFIG: edit these ----
 const CONFIG = {
-  checkoutUrl: "https://nestuge.com/YOUR-PRODUCT-LINK", // paste your Nestuge product link here
+  checkoutUrl: "https://selar.com/20647021t2", // paste your Nestuge product link here
   base: { cur: "NGN", amount: 9800 },                   // the price you actually set on Nestuge
   other: "USD",                                         // currency shown via live conversion
   fallback: { NGN: "₦9,800", USD: "$9.97" }             // shown if the rate service cannot be reached
